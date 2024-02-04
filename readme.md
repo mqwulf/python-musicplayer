@@ -1,4 +1,5 @@
-<p align=center><img src="resources/imgs/1.png"></p>
+<p align="center"><img src="resources/imgs/1.png" width="200"></p>
+
 
 Music player made for learning purposes developed using Tkinter, pygame. The aim of the project was to create an intuitive and responsive music player with features such as playback controls, playlist management, and media handling (including shuffle functionality).
 
@@ -9,7 +10,7 @@ Music player made for learning purposes developed using Tkinter, pygame. The aim
 - **Media Handling**: The application supports various media formats and provides seamless handling of media files, including shuffle functionality to add variety to the listening experience.
 - **Responsive Design**: The user interface is designed to be responsive, ensuring that it adapts well to different screen sizes and resolutions for a consistent user experience across devices.
 
-![vice]("resources/imgs/player.png")
+![Vice](resources/imgs/player.png)
 
 ## How to use
 - **Install dependencies: [tkinter]| [pygame]**
